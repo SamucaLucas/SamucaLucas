@@ -1,15 +1,20 @@
 ## 👋 Hi, I’m Samuel Lucas 🎮🧑🏽‍💻
 
-<div>
-<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=SamucaLucas&&show_icons=true&show=reviews&theme=algolia" 
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=SamucaLucas&&show_icons=true&show=reviews&theme=algolia" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamucaLucas&hide_progress=true&hide_progress=true&theme=algolia&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ##
 <div style="display: inline_block"><br>
+    <img align="right" alt="gif" height="200" width="200" src="https://github.com/SamucaLucas/SamucaLucas/blob/main/Gif-GitHub-ezgif.com-speed.gif?raw=true">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg">
   <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/canva/canva-original.svg">
-  <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg">
+  <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg">
+
 </div>
 
 ##
