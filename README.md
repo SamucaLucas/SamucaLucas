@@ -1,10 +1,10 @@
 ## 👋 Hi, I’m Samuel Lucas 🎮🧑🏽‍💻
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=SamucaLucas&&show_icons=true&show=reviews&theme=algolia" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=SamucaLucas&&show_icons=true&show=reviews&theme=algolia" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamucaLucas&hide_progress=true&hide_progress=true&theme=algolia&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamucaLucas&hide_progress=true&hide_progress=true&theme=algolia&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ##
