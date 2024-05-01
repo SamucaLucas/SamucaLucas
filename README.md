@@ -1,15 +1,23 @@
 ## 👋 Hi, I’m Samuel Lucas 🎮🧑🏽‍💻
 
-</div>
+<div>
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=SamucaLucas&&show_icons=true&show=reviews&theme=algolia" 
 </div>
 
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="C" height="30" width="40" <src= "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg">
+  <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/canva/canva-original.svg">
+  <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg">
 </div>
 
+##
+
+  <a href="https://www.instagram.com/samu_calucas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/samuel-lucas-da-concei%C3%A7%C3%A3o-set%C3%BAbal-4835a4242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "Samuel.estudos8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 ##
 
 - 👀 I'm interested in the area of ​​game development, such as Game Design, but until that happens, I intend to work with Beck-End. 🎮
