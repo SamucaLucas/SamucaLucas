@@ -28,10 +28,7 @@
   <a href = "Samuel.estudos8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
- ![snake gif](https://github.com/SamucaLucas/SamucaLucas/blob/output/github-contribution-grid-snake.svg)
 
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=SamucaLucas&repo=SamucaLucas&theme=react)](https://github.com/SamucaLucas/SamucaLucas)
- 
 ##
 
 
